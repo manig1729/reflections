@@ -20,6 +20,13 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When one wants to try an experimental version that doesn't need to be
+	included in the main version - like changing language, making a game
+	easy or difficult etc.
+	
+	Branches would allow one to stay organised and continue working on both
+	versions without affecting each other and keeping everything 'clean'.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
