@@ -35,3 +35,11 @@ and what would be harder?
 	With git and github, collaborations would be very hard, as there won't be
 	much sense as to who edited what, and everyone will need to decide on a
 	format and save previous versions of files, which is tedious.
+	
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+
+	We want to do this whenever we want to test out a new feature which we
+	want to add, or work on fixing a bug of some other person, so that they
+	can view it and then merge it into master. This allows master to be clean
+	and in working condition no matter what.
