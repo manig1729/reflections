@@ -28,3 +28,10 @@ stored locally?
 	This is helpful if we are going to be offline for a while and want to
 	see where we had left off on the remote branch, instead of having to deal
 	with people updating the branch on github.
+	
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+	With git and github, collaborations would be very hard, as there won't be
+	much sense as to who edited what, and everyone will need to decide on a
+	format and save previous versions of files, which is tedious.
