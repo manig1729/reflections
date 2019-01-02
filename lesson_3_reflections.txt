@@ -21,3 +21,10 @@ use one instead of another?
 	modify a bit of someone's repository and make it public, clone is used when
 	we don't really want to make our changes to a public repository public, and
 	branch is used when we want to add a new version to our project, etc.
+	
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+	This is helpful if we are going to be offline for a while and want to
+	see where we had left off on the remote branch, instead of having to deal
+	with people updating the branch on github.
